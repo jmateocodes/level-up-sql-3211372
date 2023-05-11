@@ -6,3 +6,6 @@ SET Address = "74 Pine St.",
   City = "New York",
   State = "NY"
 WHERE CustomerID = 26;
+SELECT *
+from Customers
+WHERE CustomerID = 26;
