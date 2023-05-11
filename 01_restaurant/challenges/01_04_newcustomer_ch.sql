@@ -25,4 +25,4 @@ VALUES (
   );
 SELECT *
 FROM Customers
-WHERE FirstName == "Anna";
+Order BY CustomerID DESC;
